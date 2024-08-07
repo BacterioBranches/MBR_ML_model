@@ -11,3 +11,6 @@ It was not my best but I just copy the code that I had in another file but then 
 Results with the predictions on multiple lines. model calibrated with R3A Inf to predict the rest of the lines. 
 Results were not so good.
 The trends are close but r2 to low
+
+## Main_3days.ipynb
+Attempt to forecast more than one day
